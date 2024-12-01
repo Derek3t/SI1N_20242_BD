@@ -1,0 +1,16 @@
+O sistema da Fortes Engenharia visa otimizar a gestão das ações sociais, permitindo interações entre administradores e donatários em dispositivos diversos. Ele oferece funcionalidades como cadastro de usuários, gestão de ações sociais, publicação de editais, coleta de feedbacks e monitoramento de progresso.
+
+Entidades principais:
+
+Usuário (administrador ou donatário)
+Ação Social
+Edital
+Feedback
+Progresso
+Fluxo de dados: Usuários fazem login e acessam interfaces específicas. Administradores gerenciam ações sociais, publicam editais e monitoram progresso; donatários fornecem feedbacks e acompanham as ações.
+
+Tecnologias: Banco de dados relacional (MySQL), frontend em HTML, CSS e JavaScript, backend com Node.js ou PHP.
+
+Banco de Dados: Estrutura relacional com tabelas para usuários, ações sociais, editais, feedbacks e progresso, garantindo integridade referencial.
+
+Este sistema facilita a gestão e monitoramento das ações sociais, promovendo eficiência e interação entre os envolvidos.
